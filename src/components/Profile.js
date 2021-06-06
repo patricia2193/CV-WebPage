@@ -10,7 +10,7 @@ class Profile extends Component {
             <div>
                 <div className="card">
                     <div className="card-img">
-                        <img className="activator" src={ImgProfile} alt="Patricia's picture" />
+                        <img className="activator" src={ImgProfile} alt="profile" />
                         <Link className="btn-floating halfway-fab waves-effect wave-light red">
                             <i className="material-icons activator">more_vert</i>
                         </Link>
